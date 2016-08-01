@@ -14,10 +14,15 @@ public class PriorityQueueTest {
         System.out.println("Iterating over elements...");
         for (GregorianCalendar date : pq)
             System.out.println(date.get(Calendar.YEAR));
+
+
+
+
+
         System.out.println("Removing elements...");
         while (!pq.isEmpty())
             System.out.println(pq.remove().get(Calendar.YEAR));
     }
 
-    
+
 }
