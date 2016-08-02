@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e06fd573-bc21-40e0-a08b-b10f1393e0d7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounce/Ball.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounce/BallComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounce/Bounce$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounce/Bounce.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounce/BounceFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounce/BounceFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounce/BounceFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounceThread/Ball.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounceThread/BallComponent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounceThread/BallRunnable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounceThread/BounceFrame$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounceThread/BounceFrame$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounceThread/BounceFrame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounceThread/BounceThread$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/bounceThread/BounceThread.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Листинг 14/src/synch2/Bank.java" afterPath="$PROJECT_DIR$/Листинг 14/src/synch2/Bank.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/synch/Bank.class" afterPath="$PROJECT_DIR$/Листинг 14/out/production/Листинг 14/synch/Bank.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/synch/SynchBankTest.class" afterPath="$PROJECT_DIR$/Листинг 14/out/production/Листинг 14/synch/SynchBankTest.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/synch/TransferRunnable.class" afterPath="$PROJECT_DIR$/Листинг 14/out/production/Листинг 14/synch/TransferRunnable.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/synch2/Bank.class" afterPath="$PROJECT_DIR$/Листинг 14/out/production/Листинг 14/synch2/Bank.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/synch2/SynchBankTest2.class" afterPath="$PROJECT_DIR$/Листинг 14/out/production/Листинг 14/synch2/SynchBankTest2.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/synch2/TransferRunnable.class" afterPath="$PROJECT_DIR$/Листинг 14/out/production/Листинг 14/synch2/TransferRunnable.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/unsynch/Bank.class" afterPath="$PROJECT_DIR$/Листинг 14/out/production/Листинг 14/unsynch/Bank.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/unsynch/TransferRunnable.class" afterPath="$PROJECT_DIR$/Листинг 14/out/production/Листинг 14/unsynch/TransferRunnable.class" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/out/production/Листинг 14/unsynch/UnsynchBankTest.class" afterPath="$PROJECT_DIR$/Листинг 14/out/production/Листинг 14/unsynch/UnsynchBankTest.class" />
     </list>
     <ignored path="Java 2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,14 +62,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Bank.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Bank.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Листинг 14/src/synch2/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="117">
+              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
               <folding>
-                <element signature="e#898#899#0" expanded="true" />
-                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#937#938#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -60,7 +85,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SynchBankTest2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SynchBankTest2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Листинг 14/src/synch2/SynchBankTest2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -98,9 +123,9 @@
         <option value="$PROJECT_DIR$/Листинг 14/src/synch/TransferRunnable.java" />
         <option value="$PROJECT_DIR$/Листинг 14/src/synch/SynchBankTest.java" />
         <option value="$PROJECT_DIR$/Листинг 14/src/synch/Bank.java" />
-        <option value="$PROJECT_DIR$/Листинг 14/src/synch2/Bank.java" />
         <option value="$PROJECT_DIR$/Листинг 14/src/synch2/TransferRunnable.java" />
         <option value="$PROJECT_DIR$/Листинг 14/src/synch2/SynchBankTest2.java" />
+        <option value="$PROJECT_DIR$/Листинг 14/src/synch2/Bank.java" />
       </list>
     </option>
   </component>
@@ -168,6 +193,88 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Листинг 14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java 2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Листинг 14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java 2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Листинг 14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="production" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Листинг 14" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java 2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Листинг 12" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java 2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Листинг 12" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java 2.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Листинг 12" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="out" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="production" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Листинг 12" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -568,7 +675,7 @@
       <workItem from="1469649068433" duration="1261000" />
       <workItem from="1470067093140" duration="2490000" />
       <workItem from="1470071180676" duration="953000" />
-      <workItem from="1470131014761" duration="7925000" />
+      <workItem from="1470131014761" duration="9527000" />
     </task>
     <task id="LOCAL-00001" summary="удаление и работа с синхронизацией">
       <created>1470071478277</created>
@@ -623,7 +730,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12629000" />
+    <option name="totallyTimeSpent" value="14231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="742" extended-state="6" />
@@ -813,17 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Листинг 14/src/synch2/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding>
-            <element signature="e#898#899#0" expanded="true" />
-            <element signature="e#936#937#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Листинг 14/src/synch2/TransferRunnable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -837,6 +933,17 @@
         <state relative-caret-position="68">
           <caret line="4" column="11" selection-start-line="3" selection-start-column="3" selection-end-line="4" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Листинг 14/src/synch2/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+          <folding>
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
