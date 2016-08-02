@@ -24,6 +24,7 @@ public class Bank {
     public double getTotalBalance(){
         double sum = 0;
         for (double a : accounts) sum += a;
+        return sum;
     }
     //Получает количество счетов
     public int size(){
