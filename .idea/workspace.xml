@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e06fd573-bc21-40e0-a08b-b10f1393e0d7" name="Default" comment="">
+    <list default="true" id="e06fd573-bc21-40e0-a08b-b10f1393e0d7" name="Default" comment="Программа, имитирующая банк со счетами и использующая блокировки для   организации последовательного доступа к остаткам на счетах">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Листинг 14/src/synch/Bank.java" afterPath="$PROJECT_DIR$/Листинг 14/src/synch/Bank.java" />
     </list>
@@ -41,8 +41,8 @@
       <file leaf-file-name="Bank.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Листинг 14/src/synch/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+            <state relative-caret-position="270">
+              <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
               <folding>
                 <element signature="e#1775#1776#0" expanded="true" />
                 <element signature="e#1813#1814#0" expanded="true" />
@@ -576,7 +576,7 @@
       <workItem from="1469649068433" duration="1261000" />
       <workItem from="1470067093140" duration="2490000" />
       <workItem from="1470071180676" duration="953000" />
-      <workItem from="1470131014761" duration="5413000" />
+      <workItem from="1470131014761" duration="5537000" />
     </task>
     <task id="LOCAL-00001" summary="удаление и работа с синхронизацией">
       <created>1470071478277</created>
@@ -599,11 +599,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470145998321</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Программа, имитирующая банк со счетами и использующая блокировки для   организации последовательного доступа к остаткам на счетах">
+      <created>1470146265951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1470146265951</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10117000" />
+    <option name="totallyTimeSpent" value="10241000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="742" extended-state="6" />
@@ -783,8 +790,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Листинг 14/src/synch/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+        <state relative-caret-position="270">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
           <folding>
             <element signature="e#1775#1776#0" expanded="true" />
             <element signature="e#1813#1814#0" expanded="true" />
