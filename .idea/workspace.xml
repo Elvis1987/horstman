@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e06fd573-bc21-40e0-a08b-b10f1393e0d7" name="Default" comment="удаление и работа с синхронизацией">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Листинг 14/src/synch/Bank.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Листинг 14/src/synch/SynchBankTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Листинг 14/src/synch/TransferRunnable.java" />
+    <list default="true" id="e06fd573-bc21-40e0-a08b-b10f1393e0d7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Листинг 14/src/synch/Bank.java" afterPath="$PROJECT_DIR$/Листинг 14/src/synch/Bank.java" />
     </list>
     <ignored path="Java 2.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,7 +22,7 @@
     </SUITE>
   </component>
   <component name="CreatePatchCommitExecutor">
-    <option name="PATCH_PATH" value="" />
+    <option name="PATCH_PATH" value="F:\Java\Java 2.0" />
   </component>
   <component name="DatabaseView">
     <option name="GROUP_SCHEMA" value="true" />
@@ -43,8 +41,8 @@
       <file leaf-file-name="Bank.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Листинг 14/src/synch/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="60" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="60" />
+            <state relative-caret-position="253">
+              <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
               <folding>
                 <element signature="e#1775#1776#0" expanded="true" />
                 <element signature="e#1813#1814#0" expanded="true" />
@@ -98,9 +96,9 @@
         <option value="$PROJECT_DIR$/Листинг 14/src/unsynch/TransferRunnable.java" />
         <option value="$PROJECT_DIR$/Листинг 14/src/unsynch/Bank.java" />
         <option value="$PROJECT_DIR$/Листинг 14/src/unsynch/UnsynchBankTest.java" />
-        <option value="$PROJECT_DIR$/Листинг 14/src/synch/Bank.java" />
         <option value="$PROJECT_DIR$/Листинг 14/src/synch/TransferRunnable.java" />
         <option value="$PROJECT_DIR$/Листинг 14/src/synch/SynchBankTest.java" />
+        <option value="$PROJECT_DIR$/Листинг 14/src/synch/Bank.java" />
       </list>
     </option>
   </component>
@@ -578,7 +576,7 @@
       <workItem from="1469649068433" duration="1261000" />
       <workItem from="1470067093140" duration="2490000" />
       <workItem from="1470071180676" duration="953000" />
-      <workItem from="1470131014761" duration="5093000" />
+      <workItem from="1470131014761" duration="5413000" />
     </task>
     <task id="LOCAL-00001" summary="удаление и работа с синхронизацией">
       <created>1470071478277</created>
@@ -594,11 +592,18 @@
       <option name="project" value="LOCAL" />
       <updated>1470140817175</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Программа, имитирующая банк со счетами и использующая блокировки для   организации последовательного доступа к остаткам на счетах">
+      <created>1470145998321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1470145998321</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9797000" />
+    <option name="totallyTimeSpent" value="10117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="742" extended-state="6" />
@@ -641,7 +646,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="удаление и работа с синхронизацией" />
-    <option name="LAST_COMMIT_MESSAGE" value="удаление и работа с синхронизацией" />
+    <MESSAGE value="Программа, имитирующая банк со счетами и использующая блокировки для   организации последовательного доступа к остаткам на счетах" />
+    <option name="LAST_COMMIT_MESSAGE" value="Программа, имитирующая банк со счетами и использующая блокировки для   организации последовательного доступа к остаткам на счетах" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -777,8 +783,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Листинг 14/src/synch/Bank.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="60" selection-start-line="3" selection-start-column="4" selection-end-line="4" selection-end-column="60" />
+        <state relative-caret-position="253">
+          <caret line="58" column="10" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
           <folding>
             <element signature="e#1775#1776#0" expanded="true" />
             <element signature="e#1813#1814#0" expanded="true" />

@@ -56,3 +56,4 @@ public class Bank {
         return accounts.length;
     }
 }
+//Проверка
